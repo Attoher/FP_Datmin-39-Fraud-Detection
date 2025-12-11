@@ -1,6 +1,6 @@
 # **Fraud Detection Project**
 
-## **Authors**
+## **Team 39**
 
 * Ath Thahir Muhammad Isa Rahmatullah – 5025231181
 * Abimanyu Danendra A. – 5025231182
